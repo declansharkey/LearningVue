@@ -1,0 +1,23 @@
+{
+  "name": "vueproj",
+  "version": "1.0.0",
+  "description": "simple vue proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/declansharkey/LearningVue.git"
+  },
+  "keywords": [
+    "vue",
+    "proj"
+  ],
+  "author": "Declan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/declansharkey/LearningVue/issues"
+  },
+  "homepage": "https://github.com/declansharkey/LearningVue#readme"
+}
